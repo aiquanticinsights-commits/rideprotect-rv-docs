@@ -1,0 +1,9 @@
+title: RideProtect-RV
+description: Open documentation for the RideProtect-RV RISC-V SoC
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-remote-theme
+show_downloads: true
+github:
+  zip_url: https://github.com/aiquanticinsights-commits/RideProtect-SOC-Automobile/releases
+  tar_url: https://github.com/aiquanticinsights-commits/RideProtect-SOC-Automobile/releases
