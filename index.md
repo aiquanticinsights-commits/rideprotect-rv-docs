@@ -10,7 +10,7 @@ A full-featured RISC-V SoC for vehicle telematics and motor control.
 
 | Document | Description |
 |----------|-------------|
-| [User Manual](RideProtect_RV_User_Manual.md) | Architecture, pinout, peripheral programming, troubleshooting |
+| [User Manual](User_Manual.md) | Architecture, pinout, peripheral programming, troubleshooting |
 | [Quick Start](quickstart.md) | 5-minute guide: simulate, build, deploy |
 
 ## Downloads
@@ -24,5 +24,5 @@ page of the main repository.
 
 ## License
 
-Documentation: CC BY-NC 4.0 &mdash; free to share with attribution.  
+Documentation: CC BY-NC 4.0 &mdash; free to share with attribution.
 Source code: All Rights Reserved.
